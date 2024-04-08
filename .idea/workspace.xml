@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AssaigmentJava4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4d2bc74-b475-4300-a4fc-2ff7730796dc" name="Changes" comment="aaaaa">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/AddVideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/DetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/ImageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/ManagerVideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/UpdateVideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_video/VideoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/user/UserVideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/user/VideoDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/VideoDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/VideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/impl/VideoDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/impl/VideoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/imageupload/20240406220948_nen1 - Copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/imageupload/20240406221509_bug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/imageupload/20240406221648_nen1 - Copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videoupload/20240406220948_log.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videoupload/20240406221509_ok.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videoupload/20240406221648_slide.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/manager_video/admin_manager_video.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/manager_video/component/add-video.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/manager_video/component/detail-video.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/manager_video/component/edit-video.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/bm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/bm2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/bp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/bp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/favourite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/images/logoyt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/user/detail_video_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f4f06033-6a48-46b5-87ce-642528d8e4b0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f4f06033-6a48-46b5-87ce-642528d8e4b0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/config/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/config/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/AddUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_user/AddUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_user/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/ManagerUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_user/ManagerUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/UpdateUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/controller/admin/manager_user/UpdateUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/entity/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/entity/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/security/FilterChainSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assaigmentjava4/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/admin/admin_index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/admin_index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/add_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/add_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/manager_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/manager_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/update_user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/admin/component/user/update_user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/error/error401.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/error/error401.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/images/SOF304 - Lab1 - Kiem thu don vi 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/images/erro401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/images/hqdefault.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/images/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/signup.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/signup.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dDj18uiMPXJgOcsiJpZKVqPJCc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.HibernateUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maintest.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.error401.jsp (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.error401.jsp.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.jsp.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AssaigmentJava4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AssaigmentJava4 [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.19.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.error401.jsp.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java4/lab8&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java4\AssaigmentJava4\src\main\webapp\view\admin\css" />
+      <recent name="C:\Users\Nguyen Hai Long\IdeaProjects\AssaigmentJava4\src\main\webapp\view" />
+      <recent name="C:\Users\Nguyen Hai Long\IdeaProjects\AssaigmentJava4\src\main\webapp" />
+      <recent name="C:\Users\Nguyen Hai Long\IdeaProjects\AssaigmentJava4\src\main\webapp\view\admin\component\user" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.19">
+    <configuration name="HibernateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.assaigmentjava4.config.HibernateUtil" />
+      <module name="AssaigmentJava4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.assaigmentjava4.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.assaigmentjava4.Main" />
+      <module name="AssaigmentJava4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.assaigmentjava4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/AssaigmentJava4_war_exploded/index.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/AssaigmentJava4_war_exploded/user-video" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="AssaigmentJava4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/AssaigmentJava4_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="33eb1973-fbb0-4923-a925-913ce8ca7976" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54396" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AssaigmentJava4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HibernateUtil" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JavaScript Debug.index.jsp" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.19" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.jsp" />
+        <item itemvalue="Application.HibernateUtil" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4d2bc74-b475-4300-a4fc-2ff7730796dc" name="Changes" comment="" />
+      <created>1709549324528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709549324528</updated>
+      <workItem from="1709549325661" duration="19914000" />
+      <workItem from="1709615020405" duration="187000" />
+      <workItem from="1709640695196" duration="12982000" />
+      <workItem from="1709689260019" duration="7304000" />
+      <workItem from="1709696822627" duration="963000" />
+      <workItem from="1709708345939" duration="2473000" />
+      <workItem from="1709711302974" duration="166000" />
+      <workItem from="1709711766545" duration="984000" />
+      <workItem from="1709712958367" duration="586000" />
+      <workItem from="1709713655100" duration="72000" />
+      <workItem from="1709713752435" duration="9000" />
+      <workItem from="1709713855677" duration="31000" />
+      <workItem from="1709713902539" duration="994000" />
+      <workItem from="1709717259243" duration="64000" />
+      <workItem from="1709717332831" duration="783000" />
+      <workItem from="1709718183946" duration="1137000" />
+      <workItem from="1709719443937" duration="3500000" />
+      <workItem from="1709776439276" duration="9536000" />
+      <workItem from="1709887869152" duration="19000" />
+      <workItem from="1709908950335" duration="3520000" />
+      <workItem from="1709985968938" duration="3000" />
+      <workItem from="1709990685151" duration="2081000" />
+      <workItem from="1709993055466" duration="904000" />
+      <workItem from="1710140658758" duration="747000" />
+      <workItem from="1710141815386" duration="10785000" />
+      <workItem from="1710153491307" duration="1688000" />
+      <workItem from="1710210015786" duration="482000" />
+      <workItem from="1710210513511" duration="5000" />
+      <workItem from="1710238395000" duration="5078000" />
+      <workItem from="1710243484114" duration="7000" />
+      <workItem from="1710243607047" duration="1033000" />
+      <workItem from="1710244912891" duration="6253000" />
+      <workItem from="1710300386049" duration="443000" />
+      <workItem from="1710302471635" duration="755000" />
+      <workItem from="1710315214828" duration="4256000" />
+      <workItem from="1710319488445" duration="1738000" />
+      <workItem from="1710321565235" duration="126000" />
+      <workItem from="1710321771959" duration="2290000" />
+      <workItem from="1710387387847" duration="7468000" />
+      <workItem from="1710466306398" duration="20000" />
+      <workItem from="1710466405985" duration="6000" />
+      <workItem from="1710495018875" duration="472000" />
+      <workItem from="1710746836669" duration="737000" />
+      <workItem from="1710754358548" duration="1131000" />
+      <workItem from="1710755504873" duration="3974000" />
+      <workItem from="1710760360343" duration="106000" />
+      <workItem from="1710845790288" duration="3000" />
+      <workItem from="1710851703603" duration="4421000" />
+      <workItem from="1710857094157" duration="3580000" />
+      <workItem from="1710924314014" duration="734000" />
+      <workItem from="1710927534748" duration="40000" />
+      <workItem from="1710930587530" duration="310000" />
+      <workItem from="1711102919989" duration="456000" />
+      <workItem from="1711361049210" duration="14000" />
+      <workItem from="1711361177624" duration="8000" />
+      <workItem from="1711514428567" duration="639000" />
+      <workItem from="1711515071026" duration="3000" />
+      <workItem from="1711696683225" duration="153000" />
+      <workItem from="1711699306528" duration="2000" />
+      <workItem from="1711706685034" duration="20000" />
+      <workItem from="1711706718955" duration="29000" />
+      <workItem from="1711707190417" duration="25000" />
+      <workItem from="1711955515674" duration="10464000" />
+      <workItem from="1712046581278" duration="31000" />
+      <workItem from="1712136235585" duration="92000" />
+      <workItem from="1712138684338" duration="273000" />
+      <workItem from="1712140303962" duration="6000" />
+      <workItem from="1712306279514" duration="1000" />
+      <workItem from="1712311868229" duration="30000" />
+      <workItem from="1712312180425" duration="17000" />
+      <workItem from="1712312343284" duration="17000" />
+      <workItem from="1712312840356" duration="8000" />
+      <workItem from="1712314603650" duration="3000" />
+      <workItem from="1712375369856" duration="66000" />
+      <workItem from="1712375458774" duration="499000" />
+      <workItem from="1712375974233" duration="548000" />
+      <workItem from="1712376550284" duration="118000" />
+      <workItem from="1712376700046" duration="816000" />
+      <workItem from="1712380208517" duration="1458000" />
+      <workItem from="1712387383972" duration="2136000" />
+      <workItem from="1712391328247" duration="1336000" />
+      <workItem from="1712396145030" duration="38000" />
+      <workItem from="1712415696663" duration="1879000" />
+      <workItem from="1712465983532" duration="9112000" />
+      <workItem from="1712477236369" duration="3646000" />
+      <workItem from="1712495716229" duration="8704000" />
+      <workItem from="1712504559562" duration="820000" />
+      <workItem from="1712506427018" duration="463000" />
+      <workItem from="1712507255034" duration="1022000" />
+      <workItem from="1712552399709" duration="1394000" />
+    </task>
+    <task id="LOCAL-00001" summary="aaaaa">
+      <option name="closed" value="true" />
+      <created>1709992707700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709992707701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="aaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaa" />
+  </component>
+</project>
